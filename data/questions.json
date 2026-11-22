@@ -1,0 +1,14 @@
+[
+  {"type": "MultipleChoice", "text": "Which keyword defines a function in Python?", "category": "Python", "difficulty": "easy", "options": ["func", "def", "lambda", "fn"], "correct_answer": "def"},
+  {"type": "MultipleChoice", "text": "Which of these is a mutable type?", "category": "Python", "difficulty": "easy", "options": ["tuple", "str", "list", "int"], "correct_answer": "list"},
+  {"type": "MultipleChoice", "text": "What does len([1, 2, 3]) return?", "category": "Python", "difficulty": "easy", "options": ["2", "3", "4", "1"], "correct_answer": "3"},
+  {"type": "MultipleChoice", "text": "Which symbol starts a comment in Python?", "category": "Python", "difficulty": "easy", "options": ["//", "#", "--", "/*"], "correct_answer": "#"},
+  {"type": "MultipleChoice", "text": "Which function reads user input in Python 3?", "category": "Python", "difficulty": "easy", "options": ["scan()", "read()", "input()", "get()"], "correct_answer": "input()"},
+  {"type": "MultipleChoice", "text": "What is the result of 7 // 2?", "category": "Python", "difficulty": "medium", "options": ["3.5", "3", "4", "2"], "correct_answer": "3"},
+  {"type": "MultipleChoice", "text": "Which command creates a new Git branch and switches to it?", "category": "Git", "difficulty": "medium", "options": ["git branch -d x", "git checkout -b x", "git merge x", "git clone x"], "correct_answer": "git checkout -b x"},
+  {"type": "MultipleChoice", "text": "Which keyword is used for inheritance syntax class B(A)? What does A represent?", "category": "OOP", "difficulty": "medium", "options": ["Child class", "Parent class", "Module", "Property"], "correct_answer": "Parent class"},
+  {"type": "TrueFalse", "text": "A tuple is mutable.", "category": "Python", "difficulty": "easy", "correct_answer": false},
+  {"type": "TrueFalse", "text": "A Python dictionary stores key-value pairs.", "category": "Python", "difficulty": "easy", "correct_answer": true},
+  {"type": "TrueFalse", "text": "super() is used to call a method of the parent class.", "category": "OOP", "difficulty": "medium", "correct_answer": true},
+  {"type": "TrueFalse", "text": "Opening a file with mode 'a' erases its old content.", "category": "Files", "difficulty": "medium", "correct_answer": false}
+]
